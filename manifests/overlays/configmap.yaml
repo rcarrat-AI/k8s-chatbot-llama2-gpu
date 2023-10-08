@@ -10,5 +10,5 @@ data:
   title: "🦜🔗 GPT-like Chatbot (LLama2) on Kubernetes with GPU"
   description: "Chatbot using LLama2 GPTQ model running on top of Kubernetes"
   port: "8080"
-  model_name_or_path: "TheBloke/Llama-2-13B-chat-GGML"
+  model_name_or_path: "TheBloke/Llama-2-13B-chat-GPTQ"
   model_storage_path: "/mnt/models"

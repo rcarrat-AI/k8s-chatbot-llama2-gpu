@@ -1,6 +1,6 @@
 # GTP-Like Chatbot with Llama2 in Kubernetes with GPU!
 
-This repo uses GPTQ Llama2 Optimization models to run the Llama2 13B model on a CPU (no GPU needed!) 
+This repo uses GPTQ Llama2 Optimization models to run the Llama2 13B model on GPU
 
 ![Llama In K8s no GPU](./assets/llama0.png)
 
