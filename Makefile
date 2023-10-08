@@ -1,6 +1,6 @@
 all: build tag push
 
-NAME=k8s-llama2-gpu-gpu
+NAME=k8s-llama2-gpu
 VERSION=v1
 REGISTRY="quay.io/rcarrata"
 TOOL="docker"

@@ -1,6 +1,7 @@
 gradio
-acceelerate
+accelerate
 requests
 langchain
 cmake
 bitsandbytes
+scipy
