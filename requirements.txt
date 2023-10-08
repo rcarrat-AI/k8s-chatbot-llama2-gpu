@@ -3,5 +3,4 @@ acceelerate
 requests
 langchain
 cmake
-transformers >= 4.32.0 
-optimum >= 1.12.0
+bitsandbytes

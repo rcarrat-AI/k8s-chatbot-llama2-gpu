@@ -19,7 +19,7 @@ WORKDIR /app
 COPY ./requirements.txt /app/requirements.txt
 
 RUN pip install --upgrade -r /app/requirements.txt
-RUN pip install accelerate
+RUN pip install accelerate transformers>=4.32.0 optimum>=1.12.0
 RUN pip3 install auto-gptq --extra-index-url https://huggingface.github.io/autogptq-index/whl/cu118/
 
 COPY main.py /app
